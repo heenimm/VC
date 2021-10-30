@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @misswift
+- 👋 Hi
 - 👀 I’m interested in mobile develop
-- 💞️ IT School Samsung
+- I💞️S
 - 📫 Kaspiysk
 
 <!---
