@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 I’m interested in mobile develop
+- 👀 
 - I💞️S
 - 📫 Kaspiysk
 
