@@ -1,7 +1,7 @@
 - 👋 Hi
 - 👀 
-- I💞️S
-- 📫 Kaspiysk
+- I💞️
+- 📫 Kasp
 
 <!---
 misswift/misswift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
